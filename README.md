@@ -1,6 +1,7 @@
 # Displays a Ammortization table to help a user pay off a loan each month! 
 
-User can input their name and information about the loan they want to take out. 
+# Instruction: 
+User can input their name. Then they will select the loan they wish to take out and input information about it. 
 
 # Here, the user wants to take out a loan to buy a car, and we can see that the table will display 30 months at a time before asking the user to continue: 
 
