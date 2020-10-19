@@ -1,4 +1,4 @@
-# Displays a Ammortization table to help a user pay off a loan each month! 
+# Displays an Ammortization table to help a user pay off a loan each month! 
 
 # Instructions: 
 User can input their name. Then they will select the loan they wish to take out and input information about it. 
