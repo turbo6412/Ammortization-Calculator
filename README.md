@@ -12,5 +12,5 @@ User can input their name. Then they will select the loan they wish to take out 
 ![mortgage calculator part 1](https://user-images.githubusercontent.com/46942833/96389268-70fd1200-1163-11eb-96bc-5ff66e1456c6.PNG)
 ![mortgage calculator part 2](https://user-images.githubusercontent.com/46942833/96389269-7195a880-1163-11eb-813d-8e2e733a9d06.PNG)
 
-# Besides loans, I also added a feature that calculates how much an investment will be worth every 30 years: 
+# Besides loans, I also added a feature that calculates how much an investment will be worth: 
 ![investment calculator example](https://user-images.githubusercontent.com/46942833/96389271-78242000-1163-11eb-968f-3aa9c41d88d1.PNG)
